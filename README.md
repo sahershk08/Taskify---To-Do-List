@@ -14,5 +14,5 @@ All tasks are saved in the browser's **localStorage**, so they remain even after
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
   
